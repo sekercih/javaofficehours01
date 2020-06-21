@@ -13,7 +13,8 @@ public class Method01 {
 
     public static int  saniyeDonusturucu(int hours,int minutes){
 	
-	int saniye=(hours*3600)+(minutes*60);
+	
+	    int saniye=(hours*3600)+(minutes*60);
 
 	return saniye;
 	
